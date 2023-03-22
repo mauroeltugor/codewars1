@@ -10,7 +10,7 @@ nums.forEach((_,i) =>{
   }
 })
 
-console.log(sumNums);
+// console.log(sumNums);
 
 for (i = 0; i < nums.length-1; i += 1){
   let result = sum(nums[i],nums[i + 1] );
