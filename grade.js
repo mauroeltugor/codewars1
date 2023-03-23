@@ -13,3 +13,5 @@ let grade1 = final(grade,copy.length,exam);
 
 
 console.log(grade1);
+
+//cambiar arreglos
