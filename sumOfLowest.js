@@ -14,7 +14,7 @@ console.log(subtraction);
 
 
 
-// let max1 = number[0];
+// let max1 = number[0]; 
 // let min1;
 // for (let i = 0; i < number.length; i += 1) {
 //     if (number[i] < max1) {
