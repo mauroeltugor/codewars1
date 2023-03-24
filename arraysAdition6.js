@@ -11,3 +11,4 @@ nums.forEach((_,i) =>{
 })
 
 console.log(sumNums);
+//sol
