@@ -1,3 +1,4 @@
+//from class 
 const nums = [1, 2, 3, 4, 5];
 const sum = (a, b) => a + b;
 const sumNums = [];
@@ -11,4 +12,3 @@ nums.forEach((_,i) =>{
 })
 
 console.log(sumNums);
-//sol

@@ -1,3 +1,4 @@
+//calculate final grade with all grades
 let grade = [5.0,3.0,4.5,1.0];
 const final = (a,b,c) => (a/b)*c
 let exam = 100;
@@ -13,5 +14,3 @@ let grade1 = final(grade,copy.length,exam);
 
 
 console.log(grade1);
-
-//cambiar arreglos
