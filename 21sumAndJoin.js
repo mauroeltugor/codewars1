@@ -10,3 +10,4 @@ for(let index = 0; index < array1.length; index += 1){
 array2.sort();
 
 console.log(array2);
+//fixed commit 
