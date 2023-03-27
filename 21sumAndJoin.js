@@ -3,13 +3,10 @@
 let array1 = [1,2,5,8,9];
 let array2 = [3,6,4,7];
 
-for(let index = 0; index > array2.length; index += 1){
-    array1.push(array2[index])
+for(let index = 0; index < array1.length; index += 1){
+    array2.push(array1[index])
 }
 
+array2.sort();
 
-// array1.push(array2);
-
-
-
-console.log(array1);
+console.log(array2);

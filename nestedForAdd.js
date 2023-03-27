@@ -1,9 +1,6 @@
 // Add the elements of a dimensional . (sum)
 
-const array = [  [12, 32, 53],
-  [4, 75, 86],
-  [75, 18, 10],
-];
+const array = [  [12, 32, 53],[4, 75, 86],[75, 18, 10]];
 
 let sum = 0; //accumulator
 
