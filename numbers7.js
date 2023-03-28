@@ -16,4 +16,3 @@ for (let i = 0; i < numbers.length; i += 1) {
 }
 
 console.log(`The list of numbers is ${numbers} The even numbers are ${evenNumbers} and the odd numbers are ${oddNumbers}`);
-

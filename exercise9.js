@@ -2,5 +2,3 @@
 const numbers = [16, 22, 38, 24, 56];
 const midNumbers = numbers.map((number) => number / 2 );
 console.log(midNumbers);
-
-

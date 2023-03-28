@@ -14,21 +14,3 @@ console.log(subtraction);
 
 
 
-// let max1 = number[0]; 
-// let min1;
-// for (let i = 0; i < number.length; i += 1) {
-//     if (number[i] < max1) {
-//         max1 = number[i];
-//     }
-// }
-
-// console.log(max1);
-
-// for (let i = 0; i < number.length; i += 1) {
-//     if (number[i] < min1 && number[i] > max1) {
-//         min2 = number[i];
-//     }
-// }
-
-// console.log(min1);
-

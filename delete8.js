@@ -7,4 +7,3 @@ let oddNumbers = numbers.filter((number1) =>{
 });
 
 console.log(oddNumbers); 
-

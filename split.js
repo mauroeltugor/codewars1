@@ -2,8 +2,8 @@
 
 let string = 'Hello my name is pepe i love dogs';
 
-let converse = (a) => {a.split};
+let array = string.split(' ')
 
-let array = converse(string);
+console.log(array);
 
-console.log(converse);
+//preguntarrrrrrrrrr
