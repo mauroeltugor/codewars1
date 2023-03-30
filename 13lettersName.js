@@ -4,7 +4,7 @@ let mNames= [];
 
 
 const namesWithM = [];
-for(let i = 0; i < names.length; i++) {
+for(let i = 0; i < names.length; i+=1) {
   if(names[i].includes("m") || names[i].includes("M") ){
     mNames.push(names[i]);
   }

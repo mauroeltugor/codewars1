@@ -18,5 +18,4 @@ for (let i = 0; i < numbers.length; i += 1) {
     mode = numbers[i];
   }
 }
-
 console.log(mode);

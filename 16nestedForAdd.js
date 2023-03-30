@@ -1,4 +1,4 @@
-// Add the elements of a dimensional . (sum)
+// Sum the elements of a dimensional . 
 
 const array = [  [12, 32, 53],[4, 75, 86],[75, 18, 10]];
 
