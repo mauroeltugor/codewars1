@@ -16,5 +16,5 @@ numbers.forEach((_,i) =>{
 
 console.log(divNums);
 
-//every includes find findIndex 
+//every findIndex 
 
